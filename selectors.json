@@ -1,0 +1,18 @@
+{
+  "Amazon India": {
+    "title": [
+      "h2 span",
+      null
+    ],
+    "link": [
+      "a.a-link-normal.s-no-outline",
+      "href"
+    ]
+  },
+  "Flipkart": {
+    "price": [
+      "div.hZ3P6w",
+      null
+    ]
+  }
+}
